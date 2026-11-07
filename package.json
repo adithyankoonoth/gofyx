@@ -9,5 +9,9 @@
   "scripts": {
     "dev": "npm run dev --workspace=@gofyx/web",
     "build": "npm run build --workspace=@gofyx/web"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "tailwindcss": "^4.3.5"
   }
 }
